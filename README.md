@@ -1,5 +1,5 @@
 # Simple PHP Boilerplate [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://opensource.org/licenses/MIT)
-This project is only exist for helping my colleagues in school.
+This project only exists for helping my colleagues in school.
 
  ## Table of Contents
 
