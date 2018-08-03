@@ -10,6 +10,7 @@ This project is only exist for helping my colleagues in school.
     - [Level of Useability](#level-of-useability)
     - [Organize the Files](#organize-the-files)
 - [Advantages](#advantages)
+- [Knowledge Requirements](#knowledge-requirements)
 - [Features](#features)
 - [Usage](#usage)
     - [Nice Configurations](#nice-configurations)
@@ -59,8 +60,8 @@ The Frontend  folder contain assets, includes, and pages folders which were chop
 
  ### Knowledge Requirements :
 
-- PHP Programming
-- Good Understanding in OOP
+- [PHP Programming Basics](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW)
+- [Good Understanding in OOP](https://www.youtube.com/watch?v=ipp4WPDwwvk&list=PLfdtiltiRHWF0RicJb20da8nECQ1jFvla)
 - Open Minded
 
 ### Features :
