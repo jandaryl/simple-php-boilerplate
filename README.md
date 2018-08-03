@@ -12,13 +12,12 @@ This project is only exist for helping my colleagues in school.
 - [Knowledge Requirements](#knowledge-requirements-)
 - [Features](#features-)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Overview](#overview)
     - [Nice Configurations](#nice-configurations)
     - [Easy Validation](#easy-validation)
     - [CSRF Protection](#csrf-protection)
     - [Secure Password](#secure-password)
     - [Sql Injection Protection](#sql-injection-protection)
-    - A lot of helpful classes.
 - [Core Classes](#core-classes-)
     - [Cookie Class](#cookie-class)
     - [Database Class](#database-class)
@@ -88,7 +87,7 @@ Follow the steps below:
 2. Move the files to the htdocs folder of Xampp.
 3. Import the database and set the configuration. 
 
-### Usage
+### Overview
 
 #### Nice Configurations
 
