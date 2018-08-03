@@ -11,6 +11,7 @@ This project is only exist for helping my colleagues in school.
 - [Advantages](#advantages-)
 - [Knowledge Requirements](#knowledge-requirements-)
 - [Features](#features-)
+- [Getting Started](#getting-started-)
 - [Usage](#usage)
     - [Nice Configurations](#nice-configurations)
     - [Easy Validation](#easy-validation)
@@ -57,7 +58,7 @@ The Frontend folder contains assets, includes, and pages folders which were chop
 - High Security
 - Code Reuseable
 
- ### Knowledge Requirements :
+### Knowledge Requirements :
 
 - [PHP Programming Basics](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW)
 - [Good Understanding in OOP](https://www.youtube.com/watch?v=ipp4WPDwwvk&list=PLfdtiltiRHWF0RicJb20da8nECQ1jFvla)
@@ -72,6 +73,20 @@ The Frontend folder contains assets, includes, and pages folders which were chop
 - Sql Injection Protection
 - A lot of helpful classes.
 
+### Getting Started
+
+#### [Download ZIP](https://github.com/jandaryl/simple-php-boilerplate/archive/master.zip) or Git Clone
+```php
+git clone https://github.com/jandaryl/simple-php-boilerplate.git
+```
+
+### Setup environment
+
+Follow the steps below:
+
+1. [Download and install Xampp](https://www.apachefriends.org/download.html), which is used to manage the system.
+2. Move the files to the htdocs folder of Xampp.
+3. Import the database and set the configuration. 
 
 ### Usage
 
