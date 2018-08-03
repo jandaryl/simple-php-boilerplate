@@ -33,21 +33,21 @@ This project is only exist for helping my colleagues in school.
     - [Validation Class](#validation-class)
 
 ### Concepts :
-When you use this app the first thing you'll be notice are the files and folder in the directory. The app folder composed of frontend and backend folders, which seperates the front design and backend logic. The files that you seen in the outside of the app folder, I think as the controllers, think this as you play a jigsaw  puzzle, you need connect the different pieces to solved it or form it. So.. as you see the content of the files, there is no logic or designs include on it, except of the require once function that use to insert or connect the files. Those require name were define in the 'start.php', to make it easier to memorize, act as an alias or be constant for the file locations.
+When you use this app the first things you'll notice are the files and folder in the directory. The app folder composed of frontend and backend folders, which separates the front design and backend logic. The files that you saw in the outside of the app folder, I think as the controllers, think this as you play a jigsaw puzzle, you need to connect the different pieces to solve it or form it. So.. as you see the content of the files, there is no logic or designs include on it, except the require once function that use to insert or connect the files. Those require name defined in the 'start.php', to make it easier to memorize, act as an alias or be constant for the file locations.
 
-To understand the structure and idea of this app, think in this  way;
+To understand the structure and idea of this app, think in this way;
 
 ##### Files Controller
-The files that outside in the app folders are puzzles that you need to solved. Then the files inside in the app folder are the pieces of puzzle that you need to require or connect.
+The files that outside in the app folders are puzzles that you need to solve. Then the files inside in the app folder are the pieces of a puzzle that you need to require or connect.
 
-##### Seperation of Ideas
-The app folder contain of two folder that are frontend and backend folder. Think it as the seperation of logic and design in your application.
+##### Separation of Ideas
+The app folder contains two folders that are frontend and backend folder. Think of it as the separation of logic and design in your application.
 
-##### Level of Useability
-The backend folder contains of auth, classes, core folders. The lower the level, the low chance that you will use in your logic. Auth is level 2, Classes is level 1, and Core is level 0. So in Auth folder, where you will put your logic that connect from your frontend pages. Then the classes folder are your objects or tools that logic behind in Auth files. Then the Core folder is the abstract ideas behind of your classes folder. And that's it..
+##### Level of Usability
+The backend folder contains auth, classes, core folders. The lower the level, the low chance that you will use in your logic. Auth is level 2, Classes is level 1, and Core is level 0. So in Auth folder, where you will put your logic that connects from your frontend pages. Then the classes folders are your objects or tools that logic behind in Auth files. Then the Core folder is the abstract ideas behind your classes folder. And that's it
 
 ##### Organize the Files
-The Frontend  folder contain assets, includes, and pages folders which were chopped to reuse your design and codes. Like assets folder where the css,js,images lived, includes folder where the headers, navbar, messages, footer are seperated and the pages folder where you all the your application pages lived.
+The Frontend folder contains assets, includes, and pages folders which were chopped to reuse your design and codes. Like assets folder where the css, js, images lived, includes folder where the headers, navbar, messages, footer are separated and the pages folder where you all your application pages lived.
 
 
 
