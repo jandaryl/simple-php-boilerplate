@@ -4,14 +4,14 @@ This project is only exist for helping my colleagues in school.
 
  ## Table of Contents
 
-- [Concepts](#concepts)
-    - [Controller Files](#controller-files)
+- [Concepts](#concepts-)
+    - [Files Controller](#files-controller)
     - [Seperation of Ideas](#seperation-of-ideas)
     - [Level of Useability](#level-of-useability)
     - [Organize the Files](#organize-the-files)
-- [Advantages](#advantages)
-- [Knowledge Requirements](#knowledge-requirements)
-- [Features](#features)
+- [Advantages](#advantages-)
+- [Knowledge Requirements](#knowledge-requirements-)
+- [Features](#features-)
 - [Usage](#usage)
     - [Nice Configurations](#nice-configurations)
     - [Easy Validation](#easy-validation)
@@ -19,7 +19,7 @@ This project is only exist for helping my colleagues in school.
     - [Secure Password](#secure-password)
     - [Sql Injection Protection](#sql-injection-protection)
     - A lot of helpful classes.
-- [Core Classes](#core-classes)
+- [Core Classes](#core-classes-)
     - [Cookie Class](#cookie-class)
     - [Database Class](#database-class)
     - [Hash Class](#hash-class)
@@ -28,7 +28,7 @@ This project is only exist for helping my colleagues in school.
     - [Password Class](#password-class)
     - [Redirect Class](#redirect-class)
     - [Session Class](#session-class)
-- [Helpful Classes](#helpful-classes)
+- [Helpful Classes](#helpful-classes-)
     - [Token Class](#token-class)
     - [User Class](#user-class)
     - [Validation Class](#validation-class)
