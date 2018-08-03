@@ -11,7 +11,7 @@ This project is only exist for helping my colleagues in school.
 - [Advantages](#advantages-)
 - [Knowledge Requirements](#knowledge-requirements-)
 - [Features](#features-)
-- [Getting Started](#getting-started-)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
     - [Nice Configurations](#nice-configurations)
     - [Easy Validation](#easy-validation)
