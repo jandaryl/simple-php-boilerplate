@@ -58,15 +58,6 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
--- Dumping data for table `users`
---
-
-INSERT INTO `users` (`uid`, `username`, `password`, `salt`, `name`, `joined`, `groups`) VALUES
-(19, 'Register', '61de9def10f33f9b4af98c62ac5fedccc16b217836c35f996da8dce012b4cc56', 0x1cc73022361984f03ce804f3f6d1ac640267cdb5719974d3bf968043e5a91ae3, 'Register Updated', '2018-08-02 12:49:01', 1);
-
--- --------------------------------------------------------
-
---
 -- Table structure for table `users_session`
 --
 
