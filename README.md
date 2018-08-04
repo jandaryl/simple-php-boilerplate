@@ -44,7 +44,7 @@ The files that outside in the app folders are puzzles that you need to solve. Th
 The app folder contains two folders that are frontend and backend folder. Think of it as the separation of logic and design in your application.
 
 ##### Level of Usability
-The backend folder contains auth, classes, core folders. The lower the level, the low chance that you will use in your logic. Auth is level 2, Classes is level 1, and Core is level 0. So in Auth folder, where you will put your logic that connects from your frontend pages. Then the classes folders are your objects or tools that logic behind in Auth files. Then the Core folder is the abstract ideas behind your classes folder. And that's it
+The backend folder contains auth, classes, core folders. The lower the level, the low chance that you will use in your logic. Auth is level 2, Classes is level 1, and Core is level 0. So in Auth folder, where you will put your logic that connects from your frontend pages. Then the classes folders are your objects or tools that logic behind in Auth files. Then the Core folder is the abstract ideas behind your classes folder. And that's it.
 
 ##### Organize the Files
 The Frontend folder contains assets, includes, and pages folders which were chopped to reuse your design and codes. Like assets folder where the css, js, images lived, includes folder where the headers, navbar, messages, footer are separated and the pages folder where you all your application pages lived.
