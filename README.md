@@ -60,7 +60,7 @@ The Frontend folder contains assets, includes, and pages folders which were chop
 ### Knowledge Requirements :
 
 - [PHP Programming Basics](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW)
-- [Good Understanding in OOP](https://www.youtube.com/watch?v=ipp4WPDwwvk&list=PLfdtiltiRHWF0RicJb20da8nECQ1jFvla)
+- [Good Understanding in OOP](https://www.youtube.com/watch?v=ipp4WPDwwvk&list=PLfdtiltiRHWF0RicJb20da8nECQ1jFvla) (optional)
 - Open Minded
 
 ### Features :
