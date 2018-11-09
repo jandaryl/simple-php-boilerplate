@@ -8,7 +8,7 @@
     - [Seperation of Ideas](#seperation-of-ideas)
     - [Level of Useability](#level-of-useability)
     - [Organize the Files](#organize-the-files)
-- [Advantages](#advantages-)
+- [Advantages](#advantages)
 - [Knowledge Requirements](#knowledge-requirements-)
 - [Features](#features-)
 - [Getting Started](#getting-started)
