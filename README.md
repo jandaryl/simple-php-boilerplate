@@ -1,4 +1,5 @@
 # Simple PHP Boilerplate
+- This project only exists for helping my colleagues in school.
 
  ## Table of Contents
 
